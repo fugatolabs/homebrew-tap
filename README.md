@@ -3,7 +3,7 @@
 Homebrew formulae for [Fugato](https://github.com/fugatolabs/fugato), local
 development environments for Git worktrees.
 
-Once the formula is available, install it with:
+Install Fugato with:
 
 ```sh
 brew install fugatolabs/tap/fugato
